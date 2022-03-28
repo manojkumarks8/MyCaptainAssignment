@@ -10,4 +10,4 @@ for key in dictionary:
 for count, letter in result:
     print(letter, count)
 
-'''Took almost a day to crack this'''
+'''Took almost 3 hrs to crack this'''
